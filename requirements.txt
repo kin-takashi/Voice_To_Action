@@ -1,0 +1,16 @@
+# === Speech to Text ===
+faster-whisper==1.1.1
+
+# === Audio Recording ===
+sounddevice==0.5.1
+scipy==1.13.1
+numpy==1.26.4
+
+# === Email ===
+# smtplib is built-in, no install needed
+
+# === Config ===
+python-dotenv==1.0.1
+
+# === VAD (Voice Activity Detection) - Phase 2 ===
+# webrtcvad==2.0.10
